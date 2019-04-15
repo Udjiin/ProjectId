@@ -27,7 +27,8 @@
 <nav class="mainmenu">
     <div class="container">
         <div class="dropdown">
-            <button type="button" class="navbar-toggle" data-toggle="dropdown"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+            <button type="button" class="navbar-toggle" data-toggle="dropdown"><span class="icon-bar"></span>
+                <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
             <!-- <a data-toggle="dropdown" href="#">Dropdown trigger</a> -->
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                 <li><a href="#head" class="active">Home</a></li>
@@ -57,7 +58,7 @@
                 </h3>
                 <!-- Nice place to describe your site in a sentence or two -->
                <a href="signin.jsp" class="btn btn-default btn-lg">Sign in</a>
-                <a href="sigup.html" class="btn btn-default btn-lg">Sign up</a>
+                <a href="signup.jsp" class="btn btn-default btn-lg">Sign up</a>
 
             </div> <!-- /col -->
         </div> <!-- /row -->
